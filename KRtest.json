@@ -1,14 +1,14 @@
 {
-  "language": "english",
-  "startmenu.new_game": "ttttitttt",
-  "startmenu.multiplayer": "yes multi come on",
-  "startmenu.resume_game": "e uh suh ha gi",
-  "startmenu.settings": "suljung",
-  "startmenu.high_score": "go-deuk-jum",
-  "startmenu.throne_room": "al hyun sil",
-  "startmenu.about": "choogajungbo",
-  "gamemodepicker.title": "gamemode",
-  "tribepicker.title": "pick your tribe",
+  "language": "English",
+  "startmenu.new_game": "새로운 게임",
+  "startmenu.multiplayer": "멀티플레이",
+  "startmenu.resume_game": "이어서하기",
+  "startmenu.settings": "Ustawienia",
+  "startmenu.high_score": "Najwyższe wyniki",
+  "startmenu.throne_room": "Tablica rekordów",
+  "startmenu.about": "O grze",
+  "gamemodepicker.title": "Tryb gry",
+  "tribepicker.title": "Wybierz plemię",
   "tribepicker.categories.humantribes": "Ludzkie plemiona",
   "tribepicker.categories.specialtribes": "Specjalne plemiona",
   "tribepicker.categories.specialtribes.description": "Kolekcja plemion, które są odrobinę nie z tego świata...",
@@ -882,3 +882,4 @@
   "date.second": "sekunda",
   "date.seconds": "sekund(y)"
 }
+
