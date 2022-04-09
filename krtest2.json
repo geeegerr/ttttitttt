@@ -1,4 +1,5 @@
-"language": "English",언어 : 한국어
+{
+  "language": "English",언어 : 한국어
   "startmenu.new_game": "NEW GAME" : “새로운 게임”
   "startmenu.multiplayer": "MULTIPLAYER" : “멀티플레이어”
   "startmenu.resume_game": "RESUME GAME" : “게임 계속하기”
